@@ -1,4 +1,4 @@
-![Screenshot (1)](https://github.com/RenitaRamadhani/TUGASUAS-RENITARAMADHANI-AKUNTANSI-270/assets/153142982/69304c81-a097-46d9-9a0a-9f2dfb92fe7a)# Nama : Renita Ramadhani #
+# Nama : Renita Ramadhani #
 # NIM : 12030122140270 #
 # Kelas : Pengkodean dan Pemrograman/D #
 
